@@ -1,0 +1,1 @@
+C:\OCS-Automation\nrc-gitsharp\GitSharpTest\GitSharpTest\bin\Debug\GitSharpTest.exe.config
